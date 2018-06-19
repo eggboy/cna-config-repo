@@ -1,4 +1,9 @@
-message: default HelloWorld
+message: Config from application.yml
 
-feature:
-  toggle: false
+logging: # <----New sections below
+  level:
+    io:
+      pivotal: DEBUG
+      
+#feature:
+#  toggle: false
