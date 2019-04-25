@@ -3,7 +3,7 @@ message: Config from application.yml
 logging: # <----New sections below
   level:
     io:
-      pivotal: DEBUG
+      spring: DEBUG
       
 #feature:
 #  toggle: false
