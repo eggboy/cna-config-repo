@@ -1,3 +1,6 @@
+application:
+  message: Azure Test
+ 
 message: Config from application.yml
 
 logging: # <----New sections below
