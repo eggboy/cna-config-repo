@@ -1,7 +1,7 @@
 application:
   message: Azure Test
  
-message: Config from application.yml - Service Bus AzureAzure
+message: Config from application.yml - Azure Service Bus 
 
 logging: # <----New sections below
   level:
