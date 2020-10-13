@@ -1,7 +1,7 @@
 application:
   message: Azure Test
  
-message: Config from application.yml - Azure Service Bus Spring Cloud
+message: Config from application.yml - Azure Service Bus Spring Cloud22222
 
 logging: # <----New sections below
   level:
