@@ -6,6 +6,9 @@ logging:
   level:
     io:
       spring: DEBUG
-      
-#feature:
-#  toggle: false
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
