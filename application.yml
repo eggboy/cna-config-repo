@@ -1,7 +1,7 @@
 application:
   message: Azure Test
  
-message: Config from application.yml on Github
+message: Need some fun!
 logging:
   level:
     io:
