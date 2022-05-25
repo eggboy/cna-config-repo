@@ -1,7 +1,7 @@
 application:
   message: Azure Test
  
-message: Config from application.yml on Github
+message: Config from application.yml on Github - 222
 logging:
   level:
     io:
